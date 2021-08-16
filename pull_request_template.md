@@ -1,5 +1,6 @@
-<!--- Your title should use the format 
-https://magnify.atlassian.net/browse/MAG-### (Copy Description of JIRA Issue Here) 
+<!--- 
+      Your title should use the format 
+      https://magnify.atlassian.net/browse/MAG-### (Copy Description of JIRA Issue Here) 
 -->
 
 <!--- Provide a general summary of your changes in the Title above -->
@@ -8,7 +9,7 @@ https://magnify.atlassian.net/browse/MAG-### (Copy Description of JIRA Issue Her
 <!--- Describe your changes in detail -->
 
 ## How to test
-<!--- How should we test the change? Is it a front-end cosmetic change, or something with our server logic? Is there an example set of data we should look at? -->
+<!--- How should we test the change? -->
 
 ## Screenshots (if appropriate):
 <!--- If this is not a user-facing change, feel free to remove this -->
@@ -21,3 +22,4 @@ https://magnify.atlassian.net/browse/MAG-### (Copy Description of JIRA Issue Her
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 - [ ] I have tested this change as described above.
 - [ ] If this is an API change, I have updated the API docs accordingly.
+- [ ] I have set reviewers and assignees in the sidebar.
